@@ -20,12 +20,13 @@ SFTP_IP=255.255.255.256
     },
     {
         "desc":"api",
-        "type":"http",
+        "type":"POS",
         "info": {
             "ip":"192.168.0.154",
             "port":"1111",
             "user":"aaa",
-            "pw":"aaa"
+            "pw":"aaa",
+            "db":"aaa"
         }
     }
 ]
